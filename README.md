@@ -4,14 +4,15 @@
 
 ### 👀 About me:
 
-Based in Amsterdam, I'm a former showroom manager now navigating the exciting world of full-stack development. While I have a keen interest in front-end development, I'm also eager to explore the backend. 
+Based in Amsterdam, I'm a former showroom manager now navigating the exciting world of full-stack development. 
+While I have a keen interest in front-end development, I'm also eager to explore the backend. 
 
 Enthusiastic about creating seamless user experiences and always open to learning and collaborating on innovative projects. 
 
 Let's connect and code together! 🌆🚀
 
 
-### 🔍 Find me on the web:
+### 🌐 Find me on the web:
 <div id="badges">
   <a href="https://www.linkedin.com/in/mariannesnoodijk/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +28,10 @@ Let's connect and code together! 🌆🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### 🔥 Top Languages Used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📈 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msnoodijk001&theme=dark&background=000000)](https://git.io/streak-stats)
