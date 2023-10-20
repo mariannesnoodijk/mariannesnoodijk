@@ -1,5 +1,5 @@
 ### 🚧 THIS PAGE IS A WORK IN PROGRESS 🚧
-![Green Minimalist Watercolor Background Linkedin Banner (4)](https://github.com/msnoodijk001/msnoodijk001/assets/118908034/6a9b2c9f-c441-4ed2-ae11-031937f266a3)
+![Black   Gray Minimalist Profile LinkedIn Banner (1)](https://github.com/mariannesnoodijk/mariannesnoodijk/assets/118908034/1fc4df71-28ae-436e-b5f8-6225fd7db436)
 
 
 ### 👀 About me:
