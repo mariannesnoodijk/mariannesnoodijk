@@ -57,6 +57,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300"/>
 </div>
 
+Dit is een cool bewegend intro image!! 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariannesnoodijk)](https://github.com/anuraghazra/github-readme-stats)
