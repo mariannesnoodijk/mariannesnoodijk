@@ -1,5 +1,6 @@
 ### 🚧 THIS PAGE IS A WORK IN PROGRESS 🚧
-![Black   Gray Minimalist Profile LinkedIn Banner (1)](https://github.com/mariannesnoodijk/mariannesnoodijk/assets/118908034/1fc4df71-28ae-436e-b5f8-6225fd7db436)
+
+![Black   Gray Minimalist Profile LinkedIn Banner (2)](https://github.com/mariannesnoodijk/mariannesnoodijk/assets/118908034/c00cf09b-5195-46b8-acef-0d83f685560b)
 
 
 ### 👀 About me:
