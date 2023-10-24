@@ -1,4 +1,4 @@
-### 🚧 THIS PAGE IS A WORK IN PROGRESS 🚧
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%9A%A7+THIS+PAGE+IS+A+WORK+IN+PROGRESS+%F0%9F%9A%A7)](https://git.io/typing-svg)
 
 ![Black   Gray Minimalist Profile LinkedIn Banner (2)](https://github.com/mariannesnoodijk/mariannesnoodijk/assets/118908034/c00cf09b-5195-46b8-acef-0d83f685560b)
 
