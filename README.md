@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%9A%A7+THIS+PAGE+IS+A+WORK+IN+PROGRESS+%F0%9F%9A%A7)](https://git.io/typing-svg)
-
 ![Black   Gray Minimalist Profile LinkedIn Banner (2)](https://github.com/mariannesnoodijk/mariannesnoodijk/assets/118908034/c00cf09b-5195-46b8-acef-0d83f685560b)
 
 
@@ -42,9 +40,15 @@ While I have a keen interest in front-end development, I'm also eager to explore
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariannesnoodijk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
 <!--
-**msnoodijk001/msnoodijk001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Typing feature: 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+and+welcome+to+my+profile;)](https://git.io/typing-svg)
+
+
+**mariannesnoodijk/mariannesnoodijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%9A%A7+HELLO+AND+WELCOME+TO+MY+PAGE+%F0%9F%9A%A7)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%9A%A7+HELLO+AND+WELCOME+TO+MY+PAGE+%F0%9F%9A%A7)](https://git.io/typing-svg))
 
 Here are some ideas to get you started:
 
